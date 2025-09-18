@@ -1,4 +1,4 @@
-#Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 Project Objective
 
