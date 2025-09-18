@@ -28,4 +28,5 @@ Dashboard Interaction <a href="https://github.com/kalyanipawar08/Store-Analysis-
 
 ##Dashboard
 
-[Dashboard](https://github.com/kalyanipawar08/Store-Analysis-Dashboard/blob/main/dashboard.png)
+![Uploading dashboard.png…]()
+
