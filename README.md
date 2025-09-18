@@ -28,4 +28,4 @@ Dashboard Interaction <a href="https://github.com/kalyanipawar08/Store-Analysis-
 
 ##Dashboard
 
-[Screenshot (495)](https://github.com/kalyanipawar08/Store-Analysis-Dashboard/blob/main/dashboard.png)
+[Dashboard](https://github.com/kalyanipawar08/Store-Analysis-Dashboard/blob/main/dashboard.png)
