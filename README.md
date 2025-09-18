@@ -28,5 +28,6 @@ Dashboard Interaction <a href="https://github.com/kalyanipawar08/Store-Analysis-
 
 ##Dashboard
 
-![Uploading dashboard.png…]()
+
+<img width="1856" height="755" alt="dashboard" src="https://github.com/user-attachments/assets/10021b99-e527-45b6-83b8-ed36babd45c3" />
 
