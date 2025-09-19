@@ -36,7 +36,8 @@ Dashboard Interaction <a href="https://github.com/kalyanipawar08/Store-Analysis-
 
 ##Dashboard
 
-<img width="1856" height="755" alt="Screenshot 2025-09-18 140214" src="https://github.com/user-attachments/assets/b745aeb4-949b-48ab-8a22-50c1cc1e78fd" />
+<img width="1852" height="736" alt="proje" src="https://github.com/user-attachments/assets/180f09a9-fac4-4a76-a468-e41d5fa31c4e" />
+
 
 ##Project Insight
 
